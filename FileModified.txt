@@ -1,0 +1,10 @@
+2026-08-22 11:13:18  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/app/src/main/java/com/example/claudecodetraining/MainActivity.kt
+2026-08-22 11:13:25  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/app/src/main/java/com/example/claudecodetraining/MainActivity.kt
+2026-08-22 11:14:16  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/app/src/test/java/com/example/claudecodetraining/ExampleUnitTest.kt
+2026-08-22 11:14:47  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/app/src/test/java/com/example/claudecodetraining/ExampleUnitTest.kt
+2026-08-22 11:20:11  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/.claude/settings.json
+2026-08-22 11:30:11  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/jm-solutions-site/index.html
+2026-08-22 11:40:46  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/jm-solutions-site/index.html
+2026-08-22 11:41:49  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/jm-solutions-site/styles.css
+2026-08-22 11:41:58  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/jm-solutions-site/script.js
+2026-08-22 11:51:35  /Users/vchilluri/Desktop/AndroidAugPractice/ClaudeCodeTraining/.claude/skills/bake-cake/SKILL.md
