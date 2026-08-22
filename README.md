@@ -6,7 +6,9 @@ Native Android app built with Kotlin and Jetpack Compose.
 
 Package/namespace: `com.example.claudecodetraining`. This is currently a freshly generated Android Studio "Empty Activity" project (single `MainActivity.kt` with a `Greeting` composable) with no additional architecture yet established.
 
-##  Build system
+## Build system
+
+Claude code MCP added in the list.
 
 Gradle with Kotlin DSL (`.gradle.kts`), using version catalogs (`gradle/libs.versions.toml`) for dependency management. Single module: `:app`.
 
